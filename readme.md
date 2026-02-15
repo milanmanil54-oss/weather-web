@@ -11,3 +11,5 @@ Temperature, humidity, and wind details
 Dynamic weather icons
 Error handling for invalid city names
 Clean and responsive UI
+
+ *Live Project:* [Click Here](https://milanmanil54-oss.github.io/weather-web/)
